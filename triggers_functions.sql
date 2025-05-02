@@ -1,4 +1,4 @@
--- Trigger function to update the summary_category_revenue table
+-- Trigger function to update the summary_category_revenue table 
 CREATE OR REPLACE FUNCTION update_summary_category_revenue() 
 RETURNS TRIGGER AS $$ 
 BEGIN 
