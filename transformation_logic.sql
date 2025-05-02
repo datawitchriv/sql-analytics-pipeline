@@ -1,4 +1,4 @@
--- User-defined function to combine first and last name
+-- User-defined function to combine first and last name 
 CREATE OR REPLACE FUNCTION get_full_name(first_name TEXT, last_name TEXT) 
 RETURNS TEXT AS $$ 
 BEGIN 
