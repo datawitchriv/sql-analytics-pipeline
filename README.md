@@ -46,7 +46,7 @@ To analyze customer rental activity by film category, generate actionable busine
 This project highlights my ability to:
 - Write efficient, readable SQL queries using multi-table joins
 - Build reusable and automated business logic in SQL
-- Design data structures that support both operational and strategic reporting
+- Design and build data structures/pipelines that support automating operational and strategic reports
 - Simulate business use cases
 
 ---
