@@ -1,4 +1,4 @@
--- Stored procedure to refresh the category revenue tables
+-- Stored procedure to refresh the category revenue tables 
 CREATE OR REPLACE PROCEDURE refresh_category_revenue()
 LANGUAGE plpgsql
 AS $$
